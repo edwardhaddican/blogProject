@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const BASE = 'https://jsonplace-univclone.herokuapp.com'
+const BASE = 'http://clever-neumann-583.herokuapp.com/'
 
 export async function getUsers() {
   try {
